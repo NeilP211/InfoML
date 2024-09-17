@@ -1,0 +1,12 @@
+The Jupyter Notebooks in this repository are licensed under Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+That is, the author(s) have dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Reference to this repository, crediting the author Neil Patel, or citation of the original book (G. Friedland: "Information-Driven Machine Learning: Data Science as Engineering Discipline", Springer-Nature, December 2023), whatever appropiate, is appreciated.
+
+Note that the Jupyter Notebooks showcase algorithms using data in CSV files that may have different licenses. Therefore please take caution before copying data files.
